@@ -3,7 +3,7 @@ Venture is a modern chat app for literally anything. Built with [Socket io](http
 
 # Navigation
 Frontend - (You are here!)
-<br> Backend - [spookehneko/venture-backend](https://github.com/spookehneko/venture-backend)
+<br> Backend - [VentureChat/venture-backend](https://github.com/VentureChat/venture-backend)
 
 # How to Contribute
 1. Fork the repo
